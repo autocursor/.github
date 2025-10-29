@@ -6,12 +6,10 @@
 
 Build complete software projects through natural conversation.
 
-[![Website](https://img.shields.io/badge/Website-autocursor.dev-blue)](https://autocursor.github.io)
-[![Docs](https://img.shields.io/badge/Docs-Read%20Now-green)](https://autocursor.github.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/autocursor/autocursor/blob/main/LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da)](https://discord.gg/autocursor)
+[![GitHub](https://img.shields.io/badge/GitHub-autocursor-181717?logo=github)](https://github.com/autocursor/autocursor)
 
-[🎯 Features](#key-features) • [📦 Install](#quick-start) • [📖 Docs](https://autocursor.github.io) • [🤝 Contribute](#contributing)
+[🎯 Features](#key-features) • [📦 Install](#quick-start) • [🤝 Contribute](#contributing)
 
 </div>
 
@@ -113,8 +111,8 @@ const result = await leadAgent.execute({
 ### [🎯 autocursor](https://github.com/autocursor/autocursor)
 Main plugin repository with complete implementation
 
-### [📚 Documentation](https://autocursor.github.io)
-Comprehensive guides, API reference, and examples
+### [📚 Documentation](https://github.com/autocursor/autocursor#readme)
+Comprehensive guides, API reference, and examples in the main README
 
 ## 🤝 Contributing
 
@@ -130,11 +128,9 @@ We welcome contributions! See our [Contributing Guide](https://github.com/autocu
 
 ## 🌐 Community
 
-Join our growing community:
-
-- 💬 [Discord](https://discord.gg/autocursor) - Chat with the team and community
-- 🐦 [Twitter](https://twitter.com/autocursor) - Follow for updates
-- 📧 Email: hello@autocursor.dev
+- 🐦 [GitHub](https://github.com/autocursor) - Follow our organization
+- ⭐ Star our repositories
+- 🐛 Report issues and suggest features
 
 ## 📊 Stats
 
@@ -154,7 +150,7 @@ All our projects are licensed under the MIT License - see individual repositorie
 
 *Making software development as simple as having a conversation*
 
-[Website](https://autocursor.github.io) • [Documentation](https://autocursor.github.io) • [GitHub](https://github.com/autocursor)
+[GitHub](https://github.com/autocursor) • [Main Plugin](https://github.com/autocursor/autocursor)
 
 </div>
 
