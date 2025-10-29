@@ -1,4 +1,4 @@
-# Auto Cursor
+# 🚀 Auto Cursor
 
 <div align="center">
 
@@ -6,17 +6,22 @@
 
 Build complete software projects through natural conversation.
 
-[Features](#key-features) • [Install](#quick-start) • [Docs](https://autocursor.github.io) • [Contribute](#contributing)
+[![Website](https://img.shields.io/badge/Website-autocursor.dev-blue)](https://autocursor.github.io)
+[![Docs](https://img.shields.io/badge/Docs-Read%20Now-green)](https://autocursor.github.io)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/autocursor/autocursor/blob/main/LICENSE)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da)](https://discord.gg/autocursor)
+
+[🎯 Features](#key-features) • [📦 Install](#quick-start) • [📖 Docs](https://autocursor.github.io) • [🤝 Contribute](#contributing)
 
 </div>
 
 ---
 
-## What is Auto Cursor?
+## 🌟 What is Auto Cursor?
 
 **Auto Cursor** is a revolutionary multi-agent AI orchestration plugin for Cursor IDE that transforms software development from a complex technical task into a simple conversation.
 
-### The Magic
+### ✨ The Magic
 
 ```
 You: "I want to build a task management web app"
@@ -29,32 +34,32 @@ Auto Cursor: *Creates specialized AI team*
             *Sets up CI/CD*
             *Generates documentation*
 
-Result: Complete, production-ready project!
+Result: Complete, production-ready project! 🎉
 ```
 
-### Key Features
+### 🎯 Key Features
 
-- **Zero Commands** - Just natural conversation
-- **Fully Autonomous** - From requirements to deployment
-- **8 Project Types** - Web, Mobile, Game, API, CLI, ML, Desktop
-- **Multi-Agent System** - 11 specialized AI agents
-- **Complete Output** - Code, tests, docs, infrastructure
-- **Extensible** - Add custom purposes and agents
+- **🗣️ Zero Commands** - Just natural conversation
+- **🤖 Fully Autonomous** - From requirements to deployment
+- **⚡ 8 Project Types** - Web, Mobile, Game, API, CLI, ML, Desktop
+- **🏗️ Multi-Agent System** - 11 specialized AI agents
+- **📚 Complete Output** - Code, tests, docs, infrastructure
+- **🔧 Extensible** - Add custom purposes and agents
 
-## Supported Project Types
+## 🏢 Supported Project Types
 
 | Type | Stack |
 |------|-------|
-| **Web Apps** | Go + React + PostgreSQL |
-| **Mobile Apps** | Swift / Kotlin |
-| **Games** | Unity + C# |
-| **APIs** | Go + gRPC |
-| **CLI Tools** | Go + Cobra |
-| **ML/AI** | Python + FastAPI |
-| **Desktop Apps** | Electron + React |
-| **...and more!** | Extensible |
+| 🌐 **Web Apps** | Go + React + PostgreSQL |
+| 📱 **Mobile Apps** | Swift / Kotlin |
+| 🎮 **Games** | Unity + C# |
+| 🔌 **APIs** | Go + gRPC |
+| ⌨️ **CLI Tools** | Go + Cobra |
+| 🧠 **ML/AI** | Python + FastAPI |
+| 💻 **Desktop Apps** | Electron + React |
+| ➕ **...and more!** | Extensible |
 
-## Architecture
+## 🏗️ Architecture
 
 <div align="center">
 
@@ -86,7 +91,7 @@ Result: Complete, production-ready project!
 
 </div>
 
-## Quick Start
+## 🚀 Quick Start
 
 ```bash
 # Install
@@ -103,35 +108,41 @@ const result = await leadAgent.execute({
 });
 ```
 
-## Our Repositories
+## 📦 Our Repositories
 
-### [autocursor](https://github.com/autocursor/autocursor)
+### [🎯 autocursor](https://github.com/autocursor/autocursor)
 Main plugin repository with complete implementation
 
-### [Documentation](https://autocursor.github.io)
+### [📚 Documentation](https://autocursor.github.io)
 Comprehensive guides, API reference, and examples
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions! See our [Contributing Guide](https://github.com/autocursor/autocursor) to get started.
 
 ### Ways to Contribute
 
-- Report bugs
-- Suggest features
-- Improve documentation
-- Submit pull requests
-- Star our repositories
+- 🐛 Report bugs
+- 💡 Suggest features
+- 📝 Improve documentation
+- 🔧 Submit pull requests
+- ⭐ Star our repositories
 
-## Community
+## 🌐 Community
 
 Join our growing community:
 
-- [Discord](https://discord.gg/autocursor) - Chat with the team and community
-- [Twitter](https://twitter.com/autocursor) - Follow for updates
-- Email: hello@autocursor.dev
+- 💬 [Discord](https://discord.gg/autocursor) - Chat with the team and community
+- 🐦 [Twitter](https://twitter.com/autocursor) - Follow for updates
+- 📧 Email: hello@autocursor.dev
 
-## License
+## 📊 Stats
+
+![GitHub Stars](https://img.shields.io/github/stars/autocursor/autocursor?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/autocursor/autocursor?style=social)
+![Contributors](https://img.shields.io/github/contributors/autocursor/autocursor)
+
+## 📄 License
 
 All our projects are licensed under the MIT License - see individual repositories for details.
 
@@ -139,11 +150,11 @@ All our projects are licensed under the MIT License - see individual repositorie
 
 <div align="center">
 
-**Built by the Auto Cursor Team**
+**Built with ❤️ by the Auto Cursor Team**
 
 *Making software development as simple as having a conversation*
 
-[Website](https://autocursor.github.io) • [GitHub](https://github.com/autocursor)
+[Website](https://autocursor.github.io) • [Documentation](https://autocursor.github.io) • [GitHub](https://github.com/autocursor)
 
 </div>
 
